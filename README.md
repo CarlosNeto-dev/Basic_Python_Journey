@@ -1,4 +1,5 @@
-# Jornada Python Básico 🌟
+
+# :flag-br: Jornada Python Básico 🌟
 _Eu irei mostrar a minha evolução gradativa no Python, ou seja, postarei de tempos em tempos exercícios resolvidos e aulas teóricas sobre alguma coisa relacionada à Python._
 _Nesse repositório, irei mostrar os fundamentos básicos aprendidos no Python!_
 

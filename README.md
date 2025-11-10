@@ -21,4 +21,4 @@ _On my GitHub, this repository will show my gradual evolution in Python. I will 
 - _Describe the topic covered in the theoretical subjects of Python_.
 
 ## ⚠️ Final Warning: ⚠️
-*I'm, a simple student of Python, im learning and studying about it. Futhermore, If I make a mistake, correct me, so I can improve my overall learning.*
+*I'm a simple student of Python, im learning and studying about it. Futhermore, If I make a mistake, correct me, so I can improve my overall learning.*
